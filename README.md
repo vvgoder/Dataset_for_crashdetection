@@ -11,8 +11,8 @@ We open-sourced part of our crash dataset that involved no privacy (from Interne
 
 ### Some detection results
 
-<img src="./images/1.gif" alt="image" style="zoom:33%;" /><img src="./images/2.gif" alt="image" style="zoom:33%;" />
-
+<div align=center><img width="150" height="150" src="./images/1.gif"/>
+  <img width="150" height="150" src="./images/2.gif"/></div>
 
 
 ### Data Download
