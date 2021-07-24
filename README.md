@@ -11,7 +11,11 @@ We open-sourced part of our crash dataset that involved no privacy (from Interne
 
 ### Some detection results
 
-![image](./images/heatmap.png)
+
+
+![image](./images/1.gif)
+
+![image](./images/2.gif)
 
 
 ### Data Download
