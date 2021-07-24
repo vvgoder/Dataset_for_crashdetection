@@ -11,11 +11,11 @@ We open-sourced part of our crash dataset that involved no privacy (from Interne
 
 ### Some detection results
 
+- <img src="./images/1.gif" alt="image" style="zoom:33%;" />
+
+- <img src="./images/2.gif" alt="image" style="zoom:33%;" />
 
 
-![image](./images/1.gif)
-
-![image](./images/2.gif)
 
 
 ### Data Download
