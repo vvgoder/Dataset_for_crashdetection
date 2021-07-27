@@ -6,7 +6,7 @@ We open-sourced part of our crash dataset that involved no privacy (from Interne
 ### Simple Description
 
 - The  dataset contains **1217 crash videos**  that involved no privacy (from Internet) 
-- This dataset and its corresponding paper were submitted to **《Neurocomputing》**
+- This dataset and its corresponding paper were submitted to **《Transportation Research Part C: Emerging Technologies》**
   - **Paper name :《A Modified Two-stream Network for Vision-based Crash Detection: Improving the Accuracy in Congested Traffic》**
   - When accepted, welcome to **cite** our paper if it is helpful you!
   
