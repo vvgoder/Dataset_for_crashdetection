@@ -1,7 +1,8 @@
 # Dataset_for_Crash_Detection
 
-We open-sourced part of our crash dataset that involved no privacy (from Internet) 
+We open-sourced part of our crash dataset that involved no privacy (from Internet). Moreover, this dataset will be continuously update to promote the field of Crash Detection.
 
+Welcome everyone to join and work together to make the world better！
 
 ### Simple Description
 
