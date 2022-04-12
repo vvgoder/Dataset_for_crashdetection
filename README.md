@@ -8,7 +8,7 @@ Welcome everyone to join and work together to make the world better！
 
 - The  dataset contains **1217 crash videos**  that involved no privacy (from Internet) 
 - This dataset and its corresponding paper were submitted to **《*IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS*》**
-  - **Paper name :《A Modified Two-stream Network for Vision-based Crash Detection: Improving the Accuracy in Congested Traffic》**
+  - **Paper name :《An Appearance-Motion Network for Vision-based Crash Detection: Improving the Accuracy in Congested Traffic》**
   - When accepted, welcome to **cite** our paper if it is helpful you!
   
 ### Some Crash Scenarios
