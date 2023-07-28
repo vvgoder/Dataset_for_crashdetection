@@ -9,7 +9,7 @@ Welcome everyone to join and work together to make the world better！
 - The  dataset contains a total of **2694 crash videos**  that involved no privacy, primarily from the open-source dataset CADP and the Internet.
 - This dataset and its corresponding paper were accepted to **《*IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS*》**
   - **Paper name :《An Appearance-Motion Network for Vision-based Crash Detection: Improving the Accuracy in Congested Traffic》**
-  - If this paper help you with your research, welcome to **cite** our paper!
+  - If this paper is helpful to your research, please feel free to **cite** it!
 
 ### Some Crash Scenarios
 
